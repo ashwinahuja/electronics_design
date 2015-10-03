@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Users\Ashwin\Desktop\electronics_design\design\pcb_a (PCB - Pour Copper Report).txt
+Report Written:     Saturday, October 03, 2015
+Design Path:        C:\Users\Ashwin\Desktop\electronics_design\design\pcb_a.pcb
+Design Title:       
+Created:            30/09/2014 21:49:37
+Last Saved:         17/05/2015 19:18:20
+Editing Time:       2250 min
+Units:              mm (precision 2)
+
+
+End Of Report.
